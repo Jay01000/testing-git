@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div {
+  height: 100vh;
+  text-transform: uppercase;
+  background: lightskyblue;
+  text-align: center;
+}
